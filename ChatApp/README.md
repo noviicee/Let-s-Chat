@@ -10,5 +10,5 @@ But now, is the 21st century! It's time to ditch those long cables of telephone 
 Send messages from one device to another with the help of this application and helps people to connect from all over the world anytime.
 
 ## How to use in Local Machine
-Refer to the code in the github repository, and try it out own your local machine.
+Refer to the code in the github repository, and try it out own your local machine.<p>
 Make sure you make necessary changes such as the IP address and hostname of your machine the code base.
