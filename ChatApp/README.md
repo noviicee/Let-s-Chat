@@ -6,11 +6,11 @@ The 60s  was the time when people did not have mobile phones. Letter-writing was
 
 But now, is the 21st century! It's time to ditch those long cables of telephone and have a conversation with your friend, anytime you like ;)
 
-## What it does
+## What it does:
 Send messages from one device to another with the help of this application.
 
 Helps people to connect from all over the world at any time.
 
-## How to use in Local Machine
+## How to use in Local Machine:
 Refer to the code in the github repository, and try it out own your local machine.<p>
 Make sure you make necessary changes such as the IP address and hostname of your machine the code base.
