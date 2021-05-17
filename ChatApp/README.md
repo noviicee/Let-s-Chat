@@ -29,7 +29,7 @@ This Chat App is based on the **Client Server Architechture** of the OSI Model.
 For E.g.: `www.google.com` <br>
 The computer/mahine from which this url is fetched is the client, and the server is the one who is taking the request and sending bak details to the machine.
 
-**Implementation of the terminal-based app:**
+### **Implementation of the terminal-based app:**
 
 We can visualize the app functioning like the data is first sent, then processed, and is assigned a port no. from the Operating System.
 
@@ -44,7 +44,7 @@ Basically sockets connect applications to the outside world.
 
 In order to connect our processes to the internet, we need tht IP address of the **machine on which the application is running (client)** and the port of the application.
 
-**Actual Process**
+### **Actual Process**
 
 In order to send a message, the application on which the program is running (Client) sends the data of the running process to it's socket. The socket of the client side now connects the application to the outside world, and eventually sends the data to the person's socket to whom the message has to be sent. The reciever's socket sends the data to his application.
 
