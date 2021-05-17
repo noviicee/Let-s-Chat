@@ -63,4 +63,6 @@ APPLICATION <--------[INTERNET]------------> APPLICATION
 <hr>
 <br>
 
-![ChatApp](https://smartsensordevices.com/wp-content/uploads/2020/10/sps-datatransfer-1.gif)
+<p align="center">
+  <img src="https://smartsensordevices.com/wp-content/uploads/2020/10/sps-datatransfer-1.gif" />
+</p>
